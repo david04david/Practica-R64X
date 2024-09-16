@@ -75,11 +75,15 @@ main{
 }
 
 footer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
+    bottom: 0;
+    margin: 0 10%;
 
     table{
         border: 2px solid lightgray;
+
+        td{
+            padding: 1%;
+        }
     }
 }
