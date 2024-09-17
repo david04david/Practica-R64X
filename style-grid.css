@@ -49,9 +49,9 @@ main{
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
     place-content: center;
-    width: 90%;
+    width: 80%;
     gap: 50px;
-    margin: 0 5%;
+    margin: 0 10%;
 
     .tarjetas{
         width: 100%;
